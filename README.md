@@ -12,8 +12,7 @@ from matplotlib import cm
 import datetime
 
 # Import API key
-owm_key = '&APPID=87cc8d43b5a70c9eea094377511c7804'
-gkey = "AIzaSyBJXdYB7DCdJZBDwkem6us5LVvHHdjYKiI"
+from config import *
 
 # Incorporated citipy to determine city based on latitude and longitude
 from citipy import citipy
