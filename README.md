@@ -1,4 +1,9 @@
+# Weather API
+HW-wk 6
 
+The objective of this assignment was to analyze the effect of latitude on the following weather variables: temperature, humidity, cloudiness, and wind speed. To get the 500 randomly selected cities I used numpy to randomly generate values for latitude and longitude then zipped the values together and saved to a list and matched to the nearest city using the Citypy Python library. I then pulled the requested weather data Using those city locations using the Open Weather API. I used this data to generate scatter plots using Matplotlib to analyze the correlation between latitude and other weather variables. 
+
+key findings can be found at the end.
 
 ```python
 # Dependencies and Setup
