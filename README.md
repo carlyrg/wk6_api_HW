@@ -1486,7 +1486,7 @@ plt.show
 
 
 
-![png](output_8_1.png)
+![Alt text](Temp_v_Lat.png?raw=true "Optional Title")
 
 
 Humidity vs Latitdude
@@ -1512,7 +1512,7 @@ plt.show
 
 
 
-![png](output_10_1.png)
+![Alt text](Humidity.png?raw=true "Optional Title")
 
 
 Cloudiness vs Latitude
@@ -1538,7 +1538,7 @@ plt.show
 
 
 
-![png](output_12_1.png)
+![Alt text](clouts_v_Lat.png?raw=true "Optional Title")
 
 
 Wind Speed vs Latitude
@@ -1564,7 +1564,7 @@ plt.show
 
 
 
-![png](output_14_1.png)
+![Alt text](wind_v_Lat.png?raw=true "Optional Title")
 
 
 
